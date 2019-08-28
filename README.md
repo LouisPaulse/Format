@@ -1,2 +1,2 @@
 # Format
-Using ffmpeg library to convert files containing mkv to mp4
+Using ffmpeg library to convert all files, in a folder, from mkv to mp4
